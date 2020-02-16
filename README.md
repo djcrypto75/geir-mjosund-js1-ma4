@@ -1,1 +1,1 @@
-# geir-mjosund-js1-ma4
+# js1-ma4
